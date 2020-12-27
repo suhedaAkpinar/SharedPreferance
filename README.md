@@ -1,0 +1,2 @@
+# SharedPreferance
+SharedPreferance kullanım örneği
